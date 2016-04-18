@@ -1,5 +1,5 @@
 {
-    "name": "deautos-developers/php-deautos-sdk-basiclogin",
+    "name": "developers-deautos/php-deautos-sdk-basiclogin",
     "description": "Basic Login on DeAutos Web Site",
     "require": {
         "bramus/router": "dev-master",
