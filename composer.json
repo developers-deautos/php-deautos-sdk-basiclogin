@@ -1,5 +1,5 @@
 {
-    "name": "deautos-developers/deAutos-sdk-basiclogin",
+    "name": "deautos-developers/deautos-sdk-basiclogin",
     "description": "Basic Loing on De Autos",
     "require": {
         "bramus/router": "dev-master",
